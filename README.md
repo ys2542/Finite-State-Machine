@@ -1,7 +1,9 @@
 # Finite-State-Machine
 
+## Finite state machine design:
+![alt text](3.png)
 
-Demo:
+## Demo:
 
 start State is CLOSED
 
