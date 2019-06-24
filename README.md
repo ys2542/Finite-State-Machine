@@ -1,7 +1,7 @@
 # Finite-State-Machine
 
 ## Finite state machine design:
-![alt text](3.png)
+![alt text](3.jpg)
 
 ## Demo:
 
